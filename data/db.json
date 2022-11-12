@@ -1,0 +1,22 @@
+{
+  "blog": [
+    {
+      "title": "My first blog",
+      "body": "Why we use it?\nIt is a long estalishment fact that a render will be distrac",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "Graduation Day",
+      "body": "We had a nice day in our graduation. trying to get the best out of life and doing things that's funs and most not have any purpose",
+      "author": "yoshi",
+      "id": 5
+    },
+    {
+      "title": "Welcome home buddy",
+      "body": "homes is not a big thanks for the next day I will be able to get a new one and the other thing that is the best way to get a new one is the best way to get the job description ",
+      "author": "mario",
+      "id": 8
+    }
+  ]
+}
